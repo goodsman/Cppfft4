@@ -1,0 +1,11 @@
+Package: Cppfft4
+Type: Package
+Title: Helper Functions for Numerical Approximation of Integrodifference Equations
+Version: 1.0
+Date: 2015-06-03
+Author: Devin W. Goodsman
+Maintainer: Devin W. Goodsman <goodsman@ualberta.ca>
+Description: More about what it does (maybe more than one line)
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.11.5)
+LinkingTo: Rcpp
